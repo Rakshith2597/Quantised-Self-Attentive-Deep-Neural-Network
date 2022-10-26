@@ -1,5 +1,5 @@
 # Quantised-Self-Attentive-Deep-Neural-Network
-Official code for the paper titled "Verifiable and Energy Efficient Medical Image Analysis with Quantised Self-attentive Deep Neural Networks"
+Official code for the paper titled "**Verifiable and Energy Efficient Medical Image Analysis with Quantised Self-attentive Deep Neural Networks**"
 
 Paper: [Springer](https://link.springer.com/chapter/10.1007/978-3-031-18523-6_17) [Arxiv](https://arxiv.org/pdf/2209.15287.pdf)
 
